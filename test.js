@@ -1,7 +1,3 @@
 
 hell
-bye by
-
-
-hello
-e
+bye bye
